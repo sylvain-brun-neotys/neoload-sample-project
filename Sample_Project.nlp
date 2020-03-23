@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=Sample_Project
+project.config.storage=ZIP
+project.id=214d2ef8-c9e1-4ff4-83a5-a0e989eb24bd
+product.version=7.2.0
+team.server.enabled=false
+product.original.name=
+product.name=NeoLoad
+product.original.version=
+project.config.path=config.zip
+project.version=7.0
+project.original.version=4.2
